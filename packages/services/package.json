@@ -1,0 +1,17 @@
+{
+  "name": "@famipet/service",
+  "version": "0.0.1",
+  "description": "service",
+  "author": "Jonathan Vega <ing.jonathanv@outlook.com>",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "test": "jest --coverage --colors",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "@joiz/common": "*",
+    "@joiz/repository": "*"
+  }
+}

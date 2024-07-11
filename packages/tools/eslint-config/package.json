@@ -1,0 +1,13 @@
+{
+  "name": "@famipet/eslint-config",
+  "version": "0.0.1",
+  "license": "ISC",
+  "description": "",
+  "main": "index.js",
+  "author": "Jonathan Vega",
+  "devDependencies": {
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-sort-exports": "^0.8.0"
+  }
+}

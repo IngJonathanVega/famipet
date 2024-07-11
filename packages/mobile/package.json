@@ -1,0 +1,13 @@
+{
+  "name": "@famipet/mobile",
+  "version": "0.0.1",
+  "description": "mobile",
+  "author": "Jonathan Vega <ing.jonathanv@outlook.com>",
+  "license": "ISC",
+  "main": "index.ts",
+  "scripts": {
+    "type-check": "tsc --noEmit",
+    "test": "jest --coverage --colors",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  }
+}
